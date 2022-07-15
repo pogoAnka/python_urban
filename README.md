@@ -2,7 +2,7 @@
 
 ## О работе
 - Погостина Анна
-- 
+- https://colab.research.google.com/drive/1PMh9URfcQwtU2337pXfNlOuHtKWLcepy#scrollTo=9Dpv_9sEzGV-
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
